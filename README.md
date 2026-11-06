@@ -1,7 +1,7 @@
 # Olostep company research demo
 Turn a list of company names into structured data with one API call per company, using Olostep's `/answers` endpoint.
 
-📺 **Video walkthrough:** [YouTube link coming soon](https://youtube.com/your-video-link)
+**Video walkthrough:** [YouTube link coming soon](https://youtube.com/your-video-link)
 
 ## Before vs after
 
